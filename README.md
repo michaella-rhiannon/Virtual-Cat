@@ -5,28 +5,6 @@ This was one of several assignments needed to pass the **Programming Principles*
 
 ---
 
-### 🎓 Assignment Description: Grading Program
-
-The program should calculate the average of 8 test scores and display the corresponding letter grade.
-
-#### Functions to Implement
-
-1. **`calc_average`**  
-   Prompts for 8 test scores and returns the average.
-
-2. **`determine_grade`**  
-   Accepts the average score and returns the corresponding letter grade based on this scale:
-
-   | Score Range | Grade |
-   |-------------|-------|
-   | 90-100      | A     |
-   | 80-89       | B     |
-   | 70-79       | C     |
-   | 60-69       | D     |
-   | Below 60    | F     |
-
----
-
 ### 🐱 Code Explanation Summary
 
 - **`Cat` Class**  
